@@ -1,0 +1,3 @@
+[submodule "themes/ybasic"]
+	path = themes/ybasic
+	url = https://github.com/kiyeon/ybasic.git
